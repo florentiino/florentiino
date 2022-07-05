@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A recent Data-Science Bootcamp graduate at Le Wagon</h3>
 
-- 🔭 I’m currently working on [a project that is using cycle GAN's to create art in the style of some painters](https://showmeyourgans.herokuapp.com/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/florian-langer**
 
