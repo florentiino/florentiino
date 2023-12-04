@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A recent Data-Science Bootcamp graduate at Le Wagon</h3>
+<h3 align="center">Growth Marketer / Analytics Enthousiast</h3>
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/florian-langer**
